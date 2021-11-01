@@ -2,7 +2,7 @@
 - 👀 I’m interested in code.
 - 🌱 I’m currently learning to improve my code.
 - 💞️ I’m looking to collaborate on code.
-- 📫 How to reach me my code is through these repositories.
+- 📫 How to reach my code is through these repositories.
 
 <!---
 codycode/codycode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
